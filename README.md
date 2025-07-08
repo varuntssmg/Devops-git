@@ -16,4 +16,9 @@ Create a Staging branch in GitHub, push code from local repository to remote, an
 
 Upload the final output Screenshot
 
-update 1
+update 2
+
+
+Linux is a free and open-source operating system (OS) kernel originally developed by Linus Torvalds
+
+git config --global core.autocrlf input

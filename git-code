@@ -1,3 +1,11 @@
 Create a Staging branch in GitHub, push code from local repository to remote, and share commands
 
 pushed the code
+
+Git is a distributed version control system, and the term "git" itself doesn't have a formal, predefined expansion. 
+
+Jenkins is an open-source automation server used primarily for continuous integration (CI) and continuous delivery (CD) pipelines in software development . 
+
+git config --global core.autocrlf input
+
+update 10
